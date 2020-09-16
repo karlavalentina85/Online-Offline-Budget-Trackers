@@ -16,7 +16,7 @@
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "An awesome application that allows you to manage your finances.",
+  "description": "An application that allows you to manage your finances.",
   "background_color": "#01579b",
   "theme_color": "#ffffff",
   "theme-color": "#ffffff"
