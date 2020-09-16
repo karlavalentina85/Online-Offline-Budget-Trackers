@@ -1,0 +1,23 @@
+{
+  "icons": [
+    {
+      "src": "assets/icons/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon_192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "MyFinanceAp",
+  "short_name": "Finance",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "description": "An awesome application that allows you to manage your finances.",
+  "background_color": "#01579b",
+  "theme_color": "#ffffff",
+  "theme-color": "#ffffff"
+}
